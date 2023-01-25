@@ -26,5 +26,5 @@ class SwerveModule {
     std::optional<ctre::phoenix::sensors::CANCoder> abs_encoder_;
     std::optional<rev::CANSparkMax> drive_motor_;
     std::optional<rev::CANSparkMax> steer_motor_;
-
+    
 };
