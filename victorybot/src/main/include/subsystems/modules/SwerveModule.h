@@ -10,7 +10,6 @@
 #include <rev/CANSparkMax.h>
 #include <ctre/phoenix/sensors/CANCoder.h>
 
-
 #include <optional>
 #include <memory>
 #include <iostream>
